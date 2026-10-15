@@ -88,9 +88,6 @@ These clarifications guide the interpretation of earlier wording in the Week 2 r
 - [Microsoft Threat Intelligence: Storm-0501’s Evolving Techniques Lead to Cloud-Based Ransomware, August 2025](https://www.microsoft.com/en-us/security/blog/2025/08/27/storm-0501s-evolving-techniques-lead-to-cloud-based-ransomware/)
 
 ## AI Usage
-
-## AI Usage
-
 We used ChatGPT as an assistant while preparing the project materials:
 
 - **Week 1 — Cyber Threat Intelligence Fundamentals:** ChatGPT helped draft explanations of terms related to PowerShell Remoting and WinRM and improve the English wording of the threat classification.
