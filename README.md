@@ -159,4 +159,5 @@ We used ChatGPT as an assistant while preparing the project materials:
 - **Week 8 — Creating a Plan to Emulate an Attacker's Action:** ChatGPT helped explain the Splunk validation results.
 - **Week 9 — Atomic Red Team:** ChatGPT helped organize the Splunk filtering results and conclusions.
 - **Week 10 — Learning APT Techniques:** ChatGPT helped formulate recommendations for improving Sysmon monitoring and Splunk correlation.
+- 
 AI-generated explanations were not treated as evidence of malicious activity or campaign attribution. The reports document the practical observations, supporting screenshots, sources, and limitations of the findings.
